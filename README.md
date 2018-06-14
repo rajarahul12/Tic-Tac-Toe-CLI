@@ -1,2 +1,2 @@
-# Tic-Tac_Toe_CLI
+# Tic-Tac-Toe-CLI
 This is Command Line Application created in Ruby
